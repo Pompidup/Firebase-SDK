@@ -1,0 +1,48 @@
+body {
+    font-family: 'East Sea Dokdo', cursive;
+    font-size: 30px;
+}
+
+
+li {
+    text-align: center;
+    list-style: none;
+    font-size: 30px
+}
+
+form {
+    text-align: center;
+    font-size: 30px;
+}
+
+form button {
+    margin-top: 1%;
+    font-family: 'East Sea Dokdo', cursive;
+}
+form label {
+    display: block;
+    margin-top: 1%;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 1%;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+
+button {
+    height: 30px;
+    width: 70px;
+    font-size: 15px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover {
+    background-color: black;
+    color: white;
+}
